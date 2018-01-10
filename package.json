@@ -1,6 +1,6 @@
 {
-  "name": "nodebb-theme-material",
-  "version": "2.11.5",
+  "name": "nodebb-theme-material-green",
+  "version": "0.11.6",
   "nbbpm": {
     "compatibility": "^1.7.0"
   },
@@ -8,7 +8,7 @@
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pichalite/nodebb-theme-material"
+    "url": "https://github.com/hyb1996/nodebb-theme-material-green"
   },
   "keywords": [
     "nodebb",
@@ -18,10 +18,10 @@
     "themes"
   ],
   "author": {
-    "name": "pichalite",
-    "email": "pichalite.com@gmail.com"
+    "name": "hyb1996",
+    "email": "hybbbb1996@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/pichalite/nodebb-theme-material/issues"
+    "url": "https://github.com/hyb1996/nodebb-theme-material-green/issues"
   }
 }

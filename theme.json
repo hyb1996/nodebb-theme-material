@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-material",
-    "name": "Material Design",
+    "id": "nodebb-theme-material-green",
+    "name": "Material Design Green",
     "description": "Material Design Theme for NodeBB",
-    "url": "https://github.com/pichalite/nodebb-theme-material",
+    "url": "https://github.com/hyb1996/nodebb-theme-material-green",
     "screenshot": "screenshot.png"
 }
